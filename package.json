@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@types/node": "^18.15.11"
+  },
+  "scripts": {
+    "start": "ts-node ./app.ts"
+  }
+}
